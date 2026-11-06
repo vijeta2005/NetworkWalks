@@ -289,26 +289,11 @@ I learned that documenting commands, configuration, screenshots, problems, and s
 
 ---
 
-# 🔐 Security & Ethical Use
-
-This laboratory is intended strictly for education purposes only.
-
----
-
 # 🔗 Tools & Resources
 
 - **7-Zip:** [https://7-zip.org/download.html](https://7-zip.org/download.html)
 - **VirtualBox:** [https://virtualbox.org/wiki/Downloads](https://virtualbox.org/wiki/Downloads)
 - **Kali Linux:** [https://kali.org/get-kali](https://kali.org/get-kali)
-
----
-
-# 👤 Author
-
-**Waqas Karim**\
-Cybersecurity Professional B082
-
-LinkedIn: [https://www.linkedin.com/in/waqaskarim/](https://www.linkedin.com/in/waqaskarim/)
 
 ---
 

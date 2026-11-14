@@ -144,20 +144,21 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 # 8. Evidences Collected
 
-*Screenshots collected as evidence during the activities (stored in the `screenshots/` folder):*
+*Screenshots collected as evidence during the activities (stored in the `WEEK-2/` folder):*
 
-![whois output](screenshots/1_whois.png)
+![whois output](WEEK-2/whois_shot.png)
 
-![whatweb output](screenshots/2_whatweb.png)
+![whatweb output](WEEK-2/whatweb_shot.png)
 
-![nslookup output](screenshots/3_nslookup.png)
+![nslookup output](WEEK-2/nslookup.png)
 
-![curl output](screenshots/4_curl.png)
+![curl output](WEEK-2/curl-I.png)
 
-![wafw00f output](screenshots/5_wafw00f.png)
+![wafw00f output](WEEK-2/wafw00f.png)
 
-![dnsrecon output](screenshots/7_zenmap.png)
+![dnsrecon output](WEEK-2/dsrecon_shot.png)
 
-![Zenmap scan and topology](screenshots/8_zenmap2.png)
+![dnsrecon output](WEEK-2/dsrecon_shot.png)
+![Zenmap scan and topology](WEEK-2/pings can.png)
 
 -End-

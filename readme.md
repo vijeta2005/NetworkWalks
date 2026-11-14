@@ -1,4 +1,4 @@
-# PENETRATION TESTING REPORT (SAMPLE)
+# PENETRATION TESTING REPORT
 ### Footprinting & Network Scanning Phases
 
 **W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
@@ -159,6 +159,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 ![dnsrecon output](WEEK-2/dsrecon_shot.png)
 
 ![dnsrecon output](WEEK-2/dsrecon_shot.png)
-![Zenmap scan and topology](WEEK-2/pings can.png)
+![Zenmap scan and topology](WEEK-2/pingscan.png)
+![dnsrecon output](WEEK-2/.png)
 
 -End-

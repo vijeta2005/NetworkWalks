@@ -1,7 +1,7 @@
 # PENETRATION TESTING REPORT
 ### Footprinting & Network Scanning Phases
 
-**W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**
+**W2-PM-FINAL  |  CYBERSECURITY  |  NETWORKWALKS**     .
 
 | Field | Detail |
 |---|---|

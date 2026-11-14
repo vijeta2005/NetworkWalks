@@ -154,13 +154,13 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![curl output](WEEK-2/curl-I.png)
 
-![wafw00f output](WEEK-2/wafw00f.png)
+![wafw00f output](WEEK-2/wafw00f_shot.png)
 
 ![dnsrecon output](WEEK-2/dsrecon_shot.png)
 
 ![dnsrecon output](WEEK-2/dsrecon_shot.png)
 
-![theHarvester output](WEEK-2/theharvester_shot.png)
+![theHarvester output](WEEK-2/theHarvester_shot.png)
 
 ![Regular Scan](WEEK-2/regularscan.png)
 

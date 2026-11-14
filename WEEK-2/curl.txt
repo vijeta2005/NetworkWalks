@@ -9,4 +9,4 @@ Set-Cookie: __wpdm_client=38de2c46a1aec6721a03e9bec894872b; path=/; domain=netwo
 Referrer-Policy: no-referrer-when-downgrade
 X-Endurance-Cache-Level: 0
 X-nginx-cache: WordPress
-Content-Type: text/html; charset=UTF-8
+Content-Type: text/html; charset=UTF-8    ..

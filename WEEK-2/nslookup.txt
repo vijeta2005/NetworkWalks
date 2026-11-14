@@ -1,0 +1,10 @@
+
+┌──(root㉿vijetaPC)-[/mnt/c/Users/Vijeta/OneDrive/Desktop]
+└─# nslookup networkwalks.com
+Server:		10.255.255.254
+Address:	10.255.255.254#53
+
+Non-authoritative answer:
+Name:	networkwalks.com
+Address: 192.232.216.135
+

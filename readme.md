@@ -5,10 +5,10 @@
 
 | Field | Detail |
 |---|---|
-| **Pentester Name (Cybersecurity Professional)** | **Emmanuel Bafi** |
-| **Program/Batch** | B082-Networkwalks |
-| **Date** | 17 August 2026 |
-| **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM5 (Zenmap Scanning) |
+| **Pentester Name (Student)** | **Vijeta Sargam** |
+| **Program/Batch** | B084-Networkwalks |
+| **Date** | 14 November 2026 |
+| **Modules completed** | W2-PM1 (Multiple Kali Tools)<br>W2-PM4 (Harvester Tool)<br>W2-PM5 (Zenmap Scanning) |
 | **Client/Target** | 1. Networkwalks (secured written permission already)<br>2. My own local LAN Network |
 | **Permission secured from client?** | Yes |
 | **Phases covered** | **Phase 1:** Reconnaissance & Footprinting<br>**Phase 2:** Scanning & Network Discovery<br>**Phase 3-5:** In Progress |
@@ -159,7 +159,13 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 ![dnsrecon output](WEEK-2/dsrecon_shot.png)
 
 ![dnsrecon output](WEEK-2/dsrecon_shot.png)
+
+![theHarvester output](WEEK-2/theharvester_shot.png)
+
+![Regular Scan](WEEK-2/regularscan.png)
+
 ![Zenmap scan and topology](WEEK-2/pingscan.png)
-![dnsrecon output](WEEK-2/.png)
+
+
 
 -End-

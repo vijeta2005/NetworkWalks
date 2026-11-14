@@ -160,7 +160,7 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 ![dnsrecon output](WEEK-2/dsrecon_shot.png)
 
-![theHarvester output](WEEK-2/theHarvetser_shot.png)
+![theHarvester output](WEEK-2/theHarvester_shot.png)
 
 ![Regular Scan](WEEK-2/regularscan.png)
 
